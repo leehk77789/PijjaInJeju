@@ -199,7 +199,8 @@
 </table>
 
 # 아키텍쳐
-<img src="/images/System_Architecture.png" width=80% margin="auto">
+![image](https://github.com/leehk77789/PijjaInJeju/assets/96775737/1eb323da-9cab-4727-84a2-90e515fe3887)
+
 
 # 디렉토리 구조
 ```bash
